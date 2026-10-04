@@ -5,7 +5,6 @@ import pytest
 
 from beman_readme_platforms.lib.readme import replace_supported_platforms
 
-
 SAMPLE_README = """\
 # My Project
 
