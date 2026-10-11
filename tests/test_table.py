@@ -3,10 +3,10 @@
 
 from beman_readme_platforms.lib.matrix import extract_platform_entries
 from beman_readme_platforms.lib.table import (
+    _format_cxx_range,
+    _format_version_range,
     build_table_rows,
     generate_table,
-    _format_version_range,
-    _format_cxx_range,
 )
 
 
